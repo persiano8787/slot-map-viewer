@@ -1,0 +1,3 @@
+# Mai committare dati: solo codice app
+*.sqlite
+*.db
